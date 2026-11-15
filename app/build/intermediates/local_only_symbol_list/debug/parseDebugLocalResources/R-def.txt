@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+id menu_kolor_czarno_bialy
+id menu_kolor_czerwono_zolty
+id menu_kolorystyka
+id menu_tworca
+id menu_wyjscie
+menu main
+style AppTheme

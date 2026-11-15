@@ -1,0 +1,7 @@
+com.example.szachownica:style/AppTheme = 0x7f030000
+com.example.szachownica:menu/main = 0x7f020000
+com.example.szachownica:id/menu_wyjscie = 0x7f010004
+com.example.szachownica:id/menu_tworca = 0x7f010003
+com.example.szachownica:id/menu_kolor_czerwono_zolty = 0x7f010001
+com.example.szachownica:id/menu_kolorystyka = 0x7f010002
+com.example.szachownica:id/menu_kolor_czarno_bialy = 0x7f010000
